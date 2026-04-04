@@ -5,6 +5,7 @@ public class Two {
         Scanner sc=new Scanner(System.in);
         System.out.print("Your name: ");
         String name=sc.nextLine();
+        
         System.out.println("Hello, "+name);
     }
 }
