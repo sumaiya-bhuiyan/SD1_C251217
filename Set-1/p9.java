@@ -7,7 +7,6 @@ public class Nine{
         int n = helper.nextInt();
 
         int sum = (n * (n + 1)) / 2;
-
         System.out.println("Sum of 1 to " + n + ": " + sum);
     }
 }
